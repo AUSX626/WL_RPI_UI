@@ -1,0 +1,70 @@
+{
+  "reminders": [
+    {
+      "id": "0e853f45",
+      "content": "喝水",
+      "trigger_time": "2025-12-27 16:53:18",
+      "repeat": "none",
+      "repeat_interval": 0,
+      "enabled": false,
+      "created_at": "2025-12-27 16:52:18",
+      "last_triggered": "2026-02-01 23:10:05",
+      "trigger_count": 1
+    },
+    {
+      "id": "97764d7a",
+      "content": "吃药",
+      "trigger_time": "2026-02-04 08:00:00",
+      "repeat": "daily",
+      "repeat_interval": 0,
+      "enabled": true,
+      "created_at": "2025-12-27 16:52:18",
+      "last_triggered": "2026-02-03 10:20:05",
+      "trigger_count": 38
+    },
+    {
+      "id": "dc2f95ce",
+      "content": "喝水",
+      "trigger_time": "2025-12-27 19:18:11",
+      "repeat": "none",
+      "repeat_interval": 0,
+      "enabled": false,
+      "created_at": "2025-12-27 19:08:11",
+      "last_triggered": "2026-02-01 23:10:05",
+      "trigger_count": 1
+    },
+    {
+      "id": "fab45d92",
+      "content": "测试提醒",
+      "trigger_time": "2026-02-02 22:01:20",
+      "repeat": "none",
+      "repeat_interval": 0,
+      "enabled": false,
+      "created_at": "2026-02-02 21:56:20",
+      "last_triggered": "2026-02-02 22:04:27",
+      "trigger_count": 1
+    },
+    {
+      "id": "b28eb3bf",
+      "content": "测试提醒",
+      "trigger_time": "2026-02-02 22:10:07",
+      "repeat": "none",
+      "repeat_interval": 0,
+      "enabled": false,
+      "created_at": "2026-02-02 22:05:07",
+      "last_triggered": "2026-02-02 22:19:38",
+      "trigger_count": 1
+    },
+    {
+      "id": "675857c2",
+      "content": "测试提醒",
+      "trigger_time": "2026-02-02 22:11:10",
+      "repeat": "none",
+      "repeat_interval": 0,
+      "enabled": false,
+      "created_at": "2026-02-02 22:06:10",
+      "last_triggered": "2026-02-02 22:19:38",
+      "trigger_count": 1
+    }
+  ]
+}

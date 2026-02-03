@@ -1,0 +1,90 @@
+{
+  "sessions": [
+    {
+      "id": "38bebe0c",
+      "start_time": "2025-12-27 16:32:59",
+      "end_time": "2025-12-27 16:33:01",
+      "duration_minutes": 0.0,
+      "mode": "pomodoro",
+      "completed": true,
+      "pomodoro_count": 1,
+      "distraction_count": 0,
+      "notes": ""
+    },
+    {
+      "id": "6da998da",
+      "start_time": "2025-12-27 16:33:10",
+      "end_time": "2025-12-27 16:33:12",
+      "duration_minutes": 0.0,
+      "mode": "pomodoro",
+      "completed": true,
+      "pomodoro_count": 1,
+      "distraction_count": 0,
+      "notes": ""
+    },
+    {
+      "id": "25963786",
+      "start_time": "2025-12-27 16:52:01",
+      "end_time": "2025-12-27 16:52:03",
+      "duration_minutes": 0.0,
+      "mode": "pomodoro",
+      "completed": true,
+      "pomodoro_count": 1,
+      "distraction_count": 0,
+      "notes": ""
+    },
+    {
+      "id": "284362e6",
+      "start_time": "2025-12-27 16:52:18",
+      "end_time": "2025-12-27 16:52:20",
+      "duration_minutes": 0.0,
+      "mode": "pomodoro",
+      "completed": true,
+      "pomodoro_count": 1,
+      "distraction_count": 0,
+      "notes": ""
+    },
+    {
+      "id": "b0464f90",
+      "start_time": "2026-02-02 21:56:18",
+      "end_time": "2026-02-02 21:56:18",
+      "duration_minutes": 0.0,
+      "mode": "normal",
+      "completed": true,
+      "pomodoro_count": 0,
+      "distraction_count": 0,
+      "notes": ""
+    },
+    {
+      "id": "ef830dce",
+      "start_time": "2026-02-02 22:05:03",
+      "end_time": "2026-02-02 22:05:04",
+      "duration_minutes": 0.0,
+      "mode": "normal",
+      "completed": true,
+      "pomodoro_count": 0,
+      "distraction_count": 0,
+      "notes": ""
+    },
+    {
+      "id": "22fd57e5",
+      "start_time": "2026-02-02 22:05:04",
+      "end_time": "2026-02-02 22:05:17",
+      "duration_minutes": 0.2,
+      "mode": "pomodoro",
+      "completed": false,
+      "pomodoro_count": 0,
+      "distraction_count": 0,
+      "notes": "系统关闭"
+    }
+  ],
+  "daily_goals": {},
+  "total_stats": {
+    "total_sessions": 7,
+    "total_minutes": 0.2,
+    "total_pomodoros": 4,
+    "longest_session": 0.2,
+    "current_streak": 1,
+    "best_streak": 1
+  }
+}
